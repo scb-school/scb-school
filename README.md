@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there 👋 I'm Sienna
+
+Currently I'm a student in my last semester at Columbia University, and will graduate in May 2023 with a major in :electric_plug::zap: Electrical Engineering and a minor in :computer: Computer Science (hence the GitHub) :mortar_board::bowtie:.
+
+I spent last summer interning as a System Development Engineer at AWS...
+![alt text](https://github.com/scb-school/scb-school/blob/main/aws-logo.png) 
+...more specifically, on the DynamoDB team.
+![alt text](https://github.com/scb-school/scb-school/blob/main/509-5094450_dynamodb-logo-amazon-dynamodb-logo-hd-png-download.png)
+
+After I graduate, I plan to return full-time at AWS. Some languages I know include Python, JavaScript, C, C++, and Java.
 
 <!--
 **scb-school/scb-school** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
